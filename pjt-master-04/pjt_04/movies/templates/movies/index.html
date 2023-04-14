@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+    <h1>Index</h1>
+    <a href="{% url 'movies:create' %}" method = 'POST'>CREATE</a>
+    <hr>
+    {% for movie in movies %}
+        <a href="{% url 'movies:detail' movie.pk%}">영화제목 : {{movie.title}}</a>
+        <br>
+        <br>
+        평점 : {{movie.score}}
+        <br>
+        <hr>
+    {% endfor %}
+{% endblock content %}
