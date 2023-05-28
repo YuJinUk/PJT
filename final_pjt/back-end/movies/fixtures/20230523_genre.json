@@ -1,0 +1,177 @@
+[
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 385687,
+            "genre_ids": "Action"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 385687,
+            "genre_ids": "Crime"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 385687,
+            "genre_ids": "Thriller"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 447365,
+            "genre_ids": "Science Fiction"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 447365,
+            "genre_ids": "Adventure"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 447365,
+            "genre_ids": "Action"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 502356,
+            "genre_ids": "Animation"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 502356,
+            "genre_ids": "Family"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 502356,
+            "genre_ids": "Adventure"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 502356,
+            "genre_ids": "Fantasy"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 502356,
+            "genre_ids": "Comedy"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 916224,
+            "genre_ids": "Animation"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 916224,
+            "genre_ids": "Drama"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 916224,
+            "genre_ids": "Adventure"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 916224,
+            "genre_ids": "Fantasy"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 955666,
+            "genre_ids": "Animation"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 955666,
+            "genre_ids": "Comedy"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 636173,
+            "genre_ids": "Drama"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 636173,
+            "genre_ids": "Comedy"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 1111319,
+            "genre_ids": "Documentary"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 497828,
+            "genre_ids": "Comedy"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 497828,
+            "genre_ids": "Drama"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 603692,
+            "genre_ids": "Action"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 603692,
+            "genre_ids": "Thriller"
+        }
+    },
+    {
+        "model": "movies.TodayGenre",
+        "fields": {
+            "movie_id": 603692,
+            "genre_ids": "Crime"
+        }
+    }
+]
